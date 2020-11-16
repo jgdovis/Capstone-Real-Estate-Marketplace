@@ -60,7 +60,7 @@ property sold:
 https://rinkeby.etherscan.io/tx/0x2df4d947b99b2dea7f876e0771654b3dfcbc30530eba99aba6eb5a862b025976
 
 
-![OpenSea Propetys forn sale](https://github.com/jgdovis/Capstone-Real-Estate-Marketplace/blob/main/OpenSea%20Store%20image/for%20sale%20on%20Opensea.PNG)
+![OpenSea Propetys forn sale](https://github.com/jgdovis/Capstone-Real-Estate-Marketplace/blob/main/OpenSea%20Store%20Image/for%20sale%20on%20Opensea.PNG)
 
 # Project Resources
 
