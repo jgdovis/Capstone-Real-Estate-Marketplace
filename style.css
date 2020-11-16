@@ -1,0 +1,79 @@
+body {
+  padding: 2em;
+  font-family: 'Roboto', 'Helvetica Neue', 'Helvetica', 'Arial', 'sans-serif';
+  color: #ffffff;
+  margin: 4px 2px;
+    background-image: url("JGHRealEstate.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+     
+}
+.container {
+  width: 80%;
+  margin: 0 auto;
+  position: center;
+}
+
+.bold { 
+  font-weight: bolder;
+}
+
+input {
+    width: 92%;
+    padding: 10px 10px;
+    margin: 7px 7px;
+}
+
+button {
+    width: 20%;
+    cursor: pointer;
+    background-color: #4c93af;
+    border: none;
+    color: white;
+    background-color: #07070a;
+    font-size: 25px;
+    padding: 10px 10px;
+    text-decoration: none;
+    cursor: pointer;
+    margin: 0;
+    top: 59%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    position: fixed;
+}
+
+.sell { 
+  background-color: rgb(255, 255, 255);
+  color: #fafafa;
+}
+
+.ftc-property {
+  background-color:#0097A7;
+  color:black;
+  width:50%;
+  padding:20px;
+}
+
+.form-group {
+  background-color:#0097A7;
+  color:black;
+  width:60%;
+  padding:50px;
+  border-radius: 10px;
+  background-color: #a8a7a7;
+  margin: 0 auto;
+    opacity:0.8;
+    position: center;
+}
+
+.form-break {
+  background-color:#fff;
+  color:white;
+  width:80%;
+  padding:5px;
+}
+
+.horizontal-rule {
+  background-color:#301414;
+}
