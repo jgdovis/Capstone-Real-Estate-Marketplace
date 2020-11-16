@@ -4,6 +4,7 @@ This project is about managing Real Estate Marketplace in Etherium Blockchain.Ea
 https://rinkeby.opensea.io/accounts/jgdovishomes
 
 Propetys for sell:
+
 https://rinkeby.opensea.io/assets/0x04932e34196ad9092c695d6f335cea47a7a8082a/1/
 https://rinkeby.opensea.io/assets/0x2742f11a46fee1684c5f8ddc36f991ed3f3bedf0/0/
 
