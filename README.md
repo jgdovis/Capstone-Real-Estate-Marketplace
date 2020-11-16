@@ -1,6 +1,7 @@
 # Udacity Blockchain Capstone-Real-Estate-Marketplace
 
 This project is about managing Real Estate Marketplace in Etherium Blockchain.Each property is represented by ERC721 Token. 
+https://rinkeby.opensea.io/accounts/jgdovishomes
 https://rinkeby.opensea.io/assets?search=%7B%22query%22%3A%22jgdovishomesERC721Token%22%7D
 
 ## Install
@@ -40,7 +41,7 @@ To view dapp
 
 ## OpenSea marketplace
 
-Storefront was created in OpenSea marketplace https://rinkeby.opensea.io/accounts/0xe97f96adecb5c24a2fe1d6c198a218feac40953a
+Storefront was created in OpenSea marketplace https://rinkeby.opensea.io/accounts/jgdovishomes
 
 ![OpenSea Store](https://github.com/jgdovis/Capstone-Real-Estate-Marketplace/blob/main/OpenSea%20Store%20image/opensea.io%20store.PNG)
 
