@@ -1,4 +1,4 @@
-# Udacity Blockchain Capstone
+# Udacity Blockchain Capstone-Real-Estate-Marketplace
 
 This project is about managing Real Estate Marketplace in Etherium Blockchain.Each property is represented by ERC721 Token. 
 (https://rinkeby.opensea.io/accounts/jgdovis) 
