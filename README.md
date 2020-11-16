@@ -38,13 +38,13 @@ To view dapp
 
 `http://localhost:3000`
 
-![Dapp page](https://github.com/jgdovis/Capstone-Real-Estate-Marketplace/blob/main/DApp%20images/Tokenise%20Real%20State%20Property.PNG)
+![Dapp page](https://github.com/jgdovis/Capstone-Real-Estate-Marketplace/blob/main/OpenSea%20Store%20Image/opensea.io%20store.PNG)
 
 ## OpenSea marketplace
 
 Storefront was created in OpenSea marketplace https://rinkeby.opensea.io/accounts/jgdovishomes
 
-![OpenSea Store](https://github.com/jgdovis/Capstone-Real-Estate-Marketplace/blob/main/OpenSea%20Store%20Image/for%20sale%20on%20Opensea.PNG)
+![OpenSea Store](https://github.com/jgdovis/Capstone-Real-Estate-Marketplace/blob/main/OpenSea%20Store%20Image/opensea.io%20store.PNG)
 
 Propetys on Sale OpenSea
 
