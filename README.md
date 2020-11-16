@@ -44,9 +44,9 @@ To view dapp
 
 Storefront was created in OpenSea marketplace https://rinkeby.opensea.io/accounts/jgdovishomes
 
-![OpenSea Store](https://github.com/jgdovis/Capstone-Real-Estate-Marketplace/blob/main/OpenSea%20Store%20image/opensea.io%20store.PNG)
+![OpenSea Store](https://github.com/jgdovis/Capstone-Real-Estate-Marketplace/blob/main/OpenSea%20Store%20Image/opensea.io%20store.PNG)
 
-Propetys on Sale and Action on OpenSea
+Propetys on Sale OpenSea
 
 ![OpenSea Propetys forn sale](https://github.com/jgdovis/Capstone-Real-Estate Marketplace/blob/main/OpenSea%20Store%20Image/for%20sale%20on%20Opensea.PNG)
 
