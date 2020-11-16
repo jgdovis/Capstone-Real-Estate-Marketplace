@@ -54,7 +54,7 @@ One of the propetys:
 
 https://rinkeby.opensea.io/assets/0x04932e34196ad9092c695d6f335cea47a7a8082a/1/
 
-![OpenSea Propetys forn sale](OpenSea Store image\for sale on Opensea.PNG)
+![OpenSea Propetys forn sale](https://github.com/jgdovis/Capstone-Real-Estate-Marketplace/blob/main/OpenSea%20Store%20image/for%20sale%20on%20Opensea.PNG)
 
 # Project Resources
 
