@@ -2,6 +2,7 @@
 
 This project is about managing Real Estate Marketplace in Etherium Blockchain.Each property is represented by ERC721 Token. 
 https://rinkeby.opensea.io/accounts/jgdovishomes
+
 https://rinkeby.opensea.io/assets?search=%7B%22query%22%3A%22jgdovishomesERC721Token%22%7D
 
 ## Install
