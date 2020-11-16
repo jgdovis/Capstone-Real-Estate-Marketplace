@@ -36,7 +36,7 @@ To view dapp
 
 `http://localhost:3000`
 
-![Dapp page](DApp Images\Tokenise Real State Property.PNG)
+![Dapp page](https://github.com/jgdovis/Capstone-Real-Estate-Marketplace/blob/main/DApp%20images/Tokenise%20Real%20State%20Property.PNG)
 
 ## OpenSea marketplace
 
