@@ -48,8 +48,6 @@ Storefront was created in OpenSea marketplace https://rinkeby.opensea.io/account
 
 Propetys on Sale and Action on OpenSea
 
-https://rinkeby.opensea.io/account?search=%7B%22toggles%22%3A%5B%22FOR_SALE%22%2C%22ON_AUCTION%22%5D%7D
-
 ![OpenSea Propetys forn sale](https://github.com/jgdovis/Capstone-Real-Estate-Marketplace/blob/main/OpenSea%20Store%20image/on%20action.PNG)
 
 One of the propetys for sell:
