@@ -44,11 +44,11 @@ To view dapp
 
 Storefront was created in OpenSea marketplace https://rinkeby.opensea.io/accounts/jgdovishomes
 
-![OpenSea Store](https://github.com/jgdovis/Capstone-Real-Estate-Marketplace/blob/main/OpenSea%20Store%20Image/opensea.io%20store.PNG)
+![OpenSea Store](https://github.com/jgdovis/Capstone-Real-Estate-Marketplace/blob/main/OpenSea%20Store%20Image/for%20sale%20on%20Opensea.PNG)
 
 Propetys on Sale OpenSea
 
-![OpenSea Propetys forn sale](https://github.com/jgdovis/Capstone-Real-Estate Marketplace/blob/main/OpenSea%20Store%20Image/for%20sale%20on%20Opensea.PNG)
+![OpenSea Propetys forn sale](https://github.com/jgdovis/Capstone-Real-Estate-Marketplace/blob/main/OpenSea%20Store%20Image/for%20sale%20on%20Opensea.PNG)
 
 One of the propetys for sell:
 
@@ -59,8 +59,6 @@ property sold:
 
 https://rinkeby.etherscan.io/tx/0x2df4d947b99b2dea7f876e0771654b3dfcbc30530eba99aba6eb5a862b025976
 
-
-![OpenSea Propetys forn sale](https://github.com/jgdovis/Capstone-Real-Estate-Marketplace/blob/main/OpenSea%20Store%20Image/for%20sale%20on%20Opensea.PNG)
 
 # Project Resources
 
