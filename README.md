@@ -38,7 +38,7 @@ To view dapp
 
 `http://localhost:3000`
 
-![Dapp page](https://github.com/jgdovis/Capstone-Real-Estate-Marketplace/blob/main/OpenSea%20Store%20Image/opensea.io%20store.PNG)
+![Dapp page](https://github.com/jgdovis/Capstone-Real-Estate-Marketplace/blob/main/JGHRealEstate.jpg)
 
 ## OpenSea marketplace
 
