@@ -42,7 +42,7 @@ To view dapp
 
 Storefront was created in OpenSea marketplace https://rinkeby.opensea.io/accounts/0xe97f96adecb5c24a2fe1d6c198a218feac40953a
 
-![OpenSea Store](OpenSea Store image\opensea.io store.PNG)
+![OpenSea Store](https://github.com/jgdovis/Capstone-Real-Estate-Marketplace/blob/main/OpenSea%20Store%20image/opensea.io%20store.PNG)
 
 Propetys on Sale and Action on OpenSea
 
